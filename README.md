@@ -3,6 +3,7 @@ This repo contains files to my projects and course work.
 
 # Contact
 Mail: dengrnb@umich.edu
+
 Tel: (734) 882-5177
 
 # About me

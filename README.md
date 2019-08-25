@@ -1,5 +1,4 @@
-# dengrnb.github.io
-Welcome to My Page
+# Welcome to My Page
 This repo contains files to my projects and course work.
 
 Contact
